@@ -9,7 +9,9 @@ December 15th-18th, 2021, Orlando, FL, USA
 ## Outline
 
 Sustainability is a significant challenge, given the impending consequences of global warming. Computing has its role to play in this environment. Computing can be seen as both part of the problem – with ICT accounting for 1.11Gt of CO2 in 2020 and estimated to more than double by 2030 - but also as part of the solution as we use computational resources to make the world a more sustainable place. Big Data is a key asset in developing a more sustainable environment. Analysis of this data can lead to new breakthroughs and better use of the resources we have.   
+
 This workshop will focus on the cutting-edge developments from both academia and industry, with a particular emphasis on novel techniques to capture, store and process big data from a wide range of sources for improving sustainability, and in particular on the methodologies and technologies which can be applied to correlate, learn and mine, interpret and visualize data which will improve sustainability.   
+
 This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, energy efficiency, sustainability, and Green Computing. The workshop is very relevant to the big data community, especially data mining, machine learning, cyber- physical systems, computational intelligence, and will bring forth a lively forum on this exciting and challenging area at the conference.
 
 [Previous workshops](Previous)
@@ -107,7 +109,7 @@ To be confirmed
 |--|--|
 | Rabih Bashroush | University of East London, UK |
 | Raffaele Bruno | Institute for informatics and telematics National Research Council, Pisa, Italy | 
-| Dongrui | Fan | Chinese Academy of Science, Beijing, China |
+| Dongrui Fan | Chinese Academy of Science, Beijing, China |
 | Amlan Ganguly | Rochester Institute of Technology, Rochester, New Yorlk, USA | 
 | Rong Ge |  Clemson University, Clemson, South Carolina, USA | 
 | Rameshwar Dubey | Montpellier Business School, France |   
