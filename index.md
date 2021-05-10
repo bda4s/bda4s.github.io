@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Big Data Analytics for Sustainability 2021 
+## Big Data Analytics for Sustainability (BDA4S) 2021 
 
 ![Branching](figures/shutterstock_1570147828.jpg)
 
