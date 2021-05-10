@@ -6,6 +6,9 @@ layout: default
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
 December 15th-18th, 2021, Orlando, FL, USA
 
+![Branching](figures/shutterstock_1570147828.jpg)
+
+
 ## Outline
 
 Sustainability is a significant challenge, given the impending consequences of global warming. Computing has its role to play in this environment. Computing can be seen as both part of the problem – with ICT accounting for 1.11Gt of CO2 in 2020 and estimated to more than double by 2030 - but also as part of the solution as we use computational resources to make the world a more sustainable place. Big Data is a key asset in developing a more sustainable environment. Analysis of this data can lead to new breakthroughs and better use of the resources we have.   
@@ -19,7 +22,23 @@ This workshop is timely and interesting for researchers, academics and practitio
 ## Research Topics
 
 The workshop only considers well-written manuscripts that describe original, unpublished, state-of-the-art research and practical work. Indicative topics for the workshop are as follows:
- 
+
+Computing for Sustainability
+* Using Big Data Analytics for improving sustainability
+* Visualization of sustainability
+* Decision support through computer analysis
+* Lifecycle management through big data and/or analytics
+* Digital twin analytics
+* Big Data policy analytics
+* Methane emission tracking and reduction
+* Food chain and systems optimization
+* Fisheries management and evaluation
+* Mobility and transport analytics
+* Sustainable and resilient built infrastructure in urban areas
+* Power and energy systems
+* Climate modeling
+* Climate finance
+
 Sustainability of Computing
 * Big data analytics for sustainable computing
 * Data mining and machine learning for sustainable computing
@@ -31,21 +50,6 @@ Sustainability of Computing
 * Comparisons of energy usage of computational equipment
 * Estimation of energy consumption
 * Evaluation of techniques to reduce consumption
-
-Computing for Sustainability
-* Using Big Data Analytics for improving sustainability
-* Visualization of sustainability
-* Decision support through computer analysis
-* Lifecycle management through big data and/or analytics
-* Digital twin analytics
-* Big Data policy analytics
-* Methane emission tracking and reduction
-* Food chain and systems optimization
-* Mobility and transport analytics
-* Sustainable and resilient built infrastructure in urban areas
-* Power and energy systems
-* Climate modeling
-* Climate finance
 
 To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Sustainability.
 
