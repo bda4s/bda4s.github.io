@@ -3,7 +3,7 @@ layout: default
 ---
 ## Big Data Analytics for Sustainability (BDA4S) 2021 
 
-![Branching](figures/shutterstock_1570147828.jpg)
+![Branching](figures/data-equipment.jpg)
 
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
 December 15th-18th, 2021, Orlando, FL, USA
