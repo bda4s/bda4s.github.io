@@ -32,7 +32,7 @@ Computing for Sustainability
 * Policy analytics
 * Methane emission tracking and reduction
 * Food chain and systems optimization
-* Fisheries management strategies
+* Ecosystem based fisheries management
 * Mobility and transport analytics
 * Sustainable and resilient built infrastructure in urban areas
 * Power and energy systems
