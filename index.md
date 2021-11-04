@@ -96,8 +96,8 @@ Newcastle University
 United Kingdom   
 E-mail: matthew.forshaw@newcastle.ac.uk   
 
-Alex Kell   
-Research Assistant   
+Dr Alex Kell   
+Research Associate   
 Sustainable Gas Institute   
 Department of Chemical Engineering   
 Imperial College London   
