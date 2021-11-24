@@ -11,6 +11,21 @@ December 15th, 2021, Virtual
 # Schedule
 All times: USA Eastern Standard Time
 
+| Time    | Title               | Presenter / Authors | 
+| ------- | ------------------- | --------------------|
+| 9:00 – 9:10 | Introduction to workshop | Stephen McGough, Matthew Forshaw Alex Kell | 
+| 9:10 – 9:35 | __Keynote:__ Geospatial Big Data analytics to model the long-term sustainable transition of residential heating worldwide (S36207) | __Diego Moya__, Sara Giarola, and Adam Hawkes | 
+| 9:35 – 10:00 | Spatio-Temporal Clustering based on HHT and Its Applications in Thermal Boiler Controlling (S36203) | Wanghu Chen, __Yan Sun__, Jing Li, Chenhan Zhai, Pengbo Lv, and Shengfang Jin | 
+| 10:00 – 10:15 | Coffee Break || 
+| 10:15 – 10:40 | Multi Scale Graph Wavenet for Wind Speed Forecasting (S36201) | Neetesh Rathore, __Pradeep Rathore__, Arghya Basak, Sri Harsha Nistala, and Venkataramana Runkana | 
+| 10:40 – 11:05 | Hard Disk Failure Prediction on Highly Imbalanced Data Using LSTM Network (S36205) | __Cahyadi__ and Matthew Forshaw | 
+| 11:05 – 11:30 | Survival Analysis and Predictive Maintenance Models for non-sensored Assets in Facilities Management (S36206) | __Genevieve Moat__ and Shirley Coleman | 
+| 11:30 – 11:55 | Application of deep learning to camera trap data for ecologists in planning / engineering – Can captivity imagery train a model which generalises to the wild? (S36208) | __Ryan Curry__, Cameron Trotter, and Stephen McGough |
+| 11:55 – 12:20 | Forecasting Air Pollution using a Modified Compositional Learning Approach (S36202) | __Samuel A. Ajila__ and Karthik Dilliraj |
+| 12:20 – 13:30 | Lunch ||
+| 13:30 – 13:55 | Top-k user-based Collaborative Recommendation System using MapReduce (S36204) | __Sheheeda Manakkadu__, Srijan Prasad Joshi, Tom Halverson and Sourav Dutta |
+| 13:55 – 14:20 | Round Table: What is the future of Big Data and Sustainability? | |
+| 14:20 – 14:35 | Closing Remarks | | 
 
 ## Outline
 
