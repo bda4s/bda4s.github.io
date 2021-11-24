@@ -9,7 +9,7 @@ layout: default
 December 15th, 2021, Virtual
 
 # Schedule
-
+All times: USA Eastern Standard Time
 
 
 ## Outline
