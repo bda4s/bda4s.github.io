@@ -1,39 +1,21 @@
 ---
 layout: default
 ---
-## Big Data Analytics for Sustainability (BDA4S) 2021 
+## Big Data Analytics for Sustainability (BDA4S) 2022 
 
 ![Branching](figures/data-equipment.jpg)
 
-### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
-December 15th, 2021, Virtual
+### A Workshop at 2022 IEEE International Conference on Big Data [(IEEE Big Data 2022)](http://bigdataieee.org/BigData2022/)
+December 17th - 20th, 2022, Osaka, Japan
 
-# Schedule
-All times: USA Eastern Standard Time
-
-| Time    | Title               | Presenter / Authors | 
-| ------- | ------------------- | --------------------|
-| 9:00 – 9:10 | Introduction to workshop | Stephen McGough, Matthew Forshaw Alex Kell | 
-| 9:10 – 9:35 | __Keynote:__ Geospatial Big Data analytics to model the long-term sustainable transition of residential heating worldwide (S36207) | __Diego Moya__, Sara Giarola, and Adam Hawkes | 
-| 9:35 – 10:00 | Spatio-Temporal Clustering based on HHT and Its Applications in Thermal Boiler Controlling (S36203) | Wanghu Chen, __Yan Sun__, Jing Li, Chenhan Zhai, Pengbo Lv, and Shengfang Jin | 
-| 10:00 – 10:15 | Coffee Break || 
-| 10:15 – 10:40 | Multi Scale Graph Wavenet for Wind Speed Forecasting (S36201) | Neetesh Rathore, __Pradeep Rathore__, Arghya Basak, Sri Harsha Nistala, and Venkataramana Runkana | 
-| 10:40 – 11:05 | Hard Disk Failure Prediction on Highly Imbalanced Data Using LSTM Network (S36205) | __Cahyadi__ and Matthew Forshaw | 
-| 11:05 – 11:30 | Survival Analysis and Predictive Maintenance Models for non-sensored Assets in Facilities Management (S36206) | __Genevieve Moat__ and Shirley Coleman | 
-| 11:30 – 11:55 | Application of deep learning to camera trap data for ecologists in planning / engineering – Can captivity imagery train a model which generalises to the wild? (S36208) | __Ryan Curry__, Cameron Trotter, and Stephen McGough |
-| 11:55 – 12:20 | Forecasting Air Pollution using a Modified Compositional Learning Approach (S36202) | __Samuel A. Ajila__ and Karthik Dilliraj |
-| 12:20 – 13:30 | Lunch ||
-| 13:30 – 13:55 | Top-k user-based Collaborative Recommendation System using MapReduce (S36204) | __Sheheeda Manakkadu__, Srijan Prasad Joshi, Tom Halverson and Sourav Dutta |
-| 13:55 – 14:20 | Round Table: What is the future of Big Data and Sustainability? | |
-| 14:20 – 14:35 | Closing Remarks | | 
 
 ## Outline
 
-Sustainability is a significant challenge, given the impending consequences of global warming. Computing has its role to play in this environment. Computing can be seen as both part of the problem – with ICT accounting for 1.11Gt of CO2 in 2020 and estimated to more than double by 2030 - but also as part of the solution as we use computational resources to make the world a more sustainable place. Big Data is a key asset in developing a more sustainable environment. Analysis of this data can lead to new breakthroughs and better use of the resources we have.   
+Sustainability is a significant challenge, given the impending consequences of global warming. Computing has a crucial role to play in ensuring that we develop sustainable interactions with our environment and tackling the challenges associated with mitigating climate change. Big Data is a key asset in developing a more sustainable environment and can lead to new breakthroughs and better use of the resources we have. However, computing can be seen as part of the solution, as we use computational resources to make the world a more sustainable place, but also part of the problem – with ICT accounting for 1.11Gt of CO2 in 2020 and estimated to more than double by 2030.
 
-This workshop will focus on the cutting-edge developments from both academia and industry, with a particular emphasis on novel techniques to capture, store and process big data from a wide range of sources for improving sustainability, and in particular on the methodologies and technologies which can be applied to correlate, learn and mine, interpret and visualize data which will improve sustainability.   
-
-This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, energy efficiency, sustainability, and Green Computing. The workshop is very relevant to the big data community, especially data mining, machine learning, cyber- physical systems, computational intelligence, and will bring forth a lively forum on this exciting and challenging area at the conference.
+This workshop will focus on the cutting-edge developments from both academia and industry, with a particular emphasis on novel techniques to capture, store and process big data from a wide range of sources for improving sustainability, and in particular on the methodologies and technologies which can be applied to correlate, learn and mine, interpret and visualise data which will lead to a more healthy, and sustainable, interactions with the environment.
+ 
+This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, energy efficiency, sustainability, and Green Computing. The workshop is very relevant to the big data community, especially data mining, machine learning, cyber-physical systems, and computational intelligence. It will bring forth a lively forum on this exciting and challenging area at the conference.
 
 [Previous workshops](Previous)
 
@@ -41,48 +23,49 @@ This workshop is timely and interesting for researchers, academics and practitio
 
 The workshop only considers well-written manuscripts that describe original, unpublished, state-of-the-art research and practical work. Indicative topics for the workshop are as follows:
 
-Computing for Sustainability
-* Using Big Data Analytics for improving sustainability
-* Visualization of sustainability
-* Decision support through computer analysis
-* Lifecycle management through big data and/or analytics
-* Digital twin analytics
-* Policy analytics
-* Methane emission tracking and reduction
-* Food chain and systems optimization
-* Ecosystem based fisheries management
-* Mobility and transport analytics
-* Sustainable and resilient built infrastructure in urban areas
-* Power and energy systems
-* Climate modeling
-* Climate finance
-
 Sustainability of Computing
-* Big data analytics for sustainable computing
-* Data mining and machine learning for sustainable computing
-* Decision support for computer energy management
-* Lifecycle management of computing resources
-* Reduction of resource requirements for computational work
-* Efficient use of Cloud resources
-* Efficient use of local resources
-* Comparisons of energy usage of computational equipment
-* Estimation of energy consumption
-* Evaluation of techniques to reduce consumption
-
-To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Sustainability.
++	Big data analytics for sustainable computing
++	Data mining and machine learning for sustainable computing
++	Decision support for computer energy management
++	Lifecycle management of computing resources
++	Reduction of resource requirements for computational work
++	Efficient use of Cloud resources
++	Efficient use of local resources
++	Comparisons of energy usage of computational equipment
++	Estimation of energy consumption
++	Evaluation of techniques to reduce consumption
+ 
+Computing for Sustainability
++	Using Big Data Analytics to improve sustainability
++	Visualisation of sustainability
++	Decision support through computer analysis
++	Lifecycle management through big data and/or analytics
++	Digital twin analytics
++	Big Data policy analytics
++	Methane emission tracking and reduction
++	Food chain and systems optimisation
++	Mobility and transport analytics
++	Sustainable and resilient built infrastructure in urban areas
++	Power and energy systems
++	Climate modelling
++	Climate finance
++	Air quality
++	Public health and the environment
+ 
+To contribute toward advances of knowledge, the workshop will solicit submissions of manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Sustainability.
 
 ### Paper Format
 
 Papers should be formatted using the two column IEEE CS template and can be up to 10 pages (including references) in length using page size of 8.5" x 11".
 
 Formatting templates:
- * Word [Doc File](http://bigdataieee.org/BigData2019/files/Conference-template-letter.doc)
- * [PDF](http://bigdataieee.org/BigData2019/files/IEEEtran_HOWTO.pdf) example
- * [LaTeX](http://bigdataieee.org/BigData2019/files/Conference-LaTeX-template_7-9-18.zip) templates
+ * Word [Doc File](http://bigdataieee.org/BigData2022/files/Conference-template-letter.doc)
+ * [PDF](http://bigdataieee.org/BigData2022/files/IEEEtran_HOWTO.pdf) example
+ * [LaTeX](http://bigdataieee.org/BigData2022/files/Conference-LaTeX-template_7-9-18.zip) templates
 
 ### Submission webpage
 
-Please submit your paper through the conference submission portal -- ([paper submission portal](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S36&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php).)
+The submission system will be made available shortly.
 
 ### Review Process
 
@@ -93,34 +76,42 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Please contact us | Due date for full workshop papers submission |
-| Nov 7, 2021 |  Notification of paper acceptance to authors |
-| Nov 15,2021 | Camera-ready of accepted papers |
-| Dec 15-18 2021 | Workshop (one day of) |
+| Oct 1, 2022 | Due date for full workshop papers submission |
+| Nov 1, 2022 |  Notification of paper acceptance to authors |
+| Nov 20,2022 | Camera-ready of accepted papers |
+| Dec 17-20 2022 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
 Dr Stephen McGough  
-Senior Lecturer  
+Reader in Machine Learning  
 School of Computing Science  
 Newcastle University  
 United Kingdom  
 E-mail : stephen.mcgough@newcastle.ac.uk
 
 Dr Matthew Forshaw   
-Senior Lecturer   
+Reader in Data Science  
 School of Computing   
 Newcastle University   
 United Kingdom   
 E-mail: matthew.forshaw@newcastle.ac.uk   
 
-Dr Alex Kell   
-Research Associate   
-Sustainable Gas Institute   
-Department of Chemical Engineering   
-Imperial College London   
-United Kingdom   
-E-mail: a.kell@imperial.ac.uk
+Prof Gavin Shaddick   
+Chair of Data Science & Statistics  
+College of Engineering, Mathematics and Physical Sciences  
+University of Exeter  
+Exeter, UK, EX4 4QF  
+United Kingdom  
+Email: G.Shaddick@exeter.ac.uk
+
+Dr Hao Dong  
+Assistant Professor in AI  
+Peng Cheng Laboratory  
+Peking University  
+Haidian District, Beijing  
+China  
+Email: hao.dong@pku.edu.cn
 
 ### International Technical Committee
 
