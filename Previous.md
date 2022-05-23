@@ -3,7 +3,11 @@ layout: default
 ---
 ## Previous Workshops
 
-We are very pleased to bring the first edition of the Big Data Analytics for Sustainability workshop, co-located with IEEE BigData.
+Our previous workshops:
+
+- [1st International Workshop on Big Data Analytics for Sustainability (BDA4S)](2021) - In collaboration with Big Data 2021 (virtual)
+
+## Other Reladted Workshops
 
 The organising team have previously led the following co-related past events: 
 
