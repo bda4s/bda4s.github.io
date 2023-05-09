@@ -6,6 +6,7 @@ layout: default
 Our previous workshops:
 
 - [1st International Workshop on Big Data Analytics for Sustainability (BDA4S)](2021) - In collaboration with Big Data 2021 (virtual)
+- [2nd International Workshop on Big Data Analytics for Sustainability (BDA4S)](2022) - In collaboration with Big Data 2021 (Osaka Japan)
 
 ## Other Reladted Workshops
 
