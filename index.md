@@ -8,6 +8,26 @@ layout: default
 ### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
 December 15th - 18th, 2023, Sorrento, Italy
 
+## Final Programme
+
+
+| Time             | Title                     | Authors        |
+|------------------|---------------------------|----------------|
+| 14\:00 - 14\:05  | Welcome                   | Chairs         |
+| 14\:05 - 14:25   | Explainable Deep Learning for Smart Grid Stability Detection | Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, and Antonella Santone |
+| 14\:25 - 14:45   | The Forecastability of Underlying Building Electricity Demand from Time Series Data | Mohamad Khalil, A. Stephen McGough, Hussain Kazmi, and Sara Walker | 
+| 14\:45 - 15:05   | Forecasting Resource Demand for Dynamic Datacenter Sizing in Telco Infrastructures | Dimitra Paranou, Angelos Pentelas, Dimitris Katsiros, Konstantinos Maidatsis, George Giannopoulos, Evangelos Angelou, Nikos Anastopoulos, and George Papastefanatos | 
+| 15\:05 - 15:25   | Natural Language Processing to Understand Human Activities Impacted by Hydroelectric Energy Projects | Keshava Pallavi Gone, Yan Chen, and Michael Smit | 
+| 15\:25 - 15:45   | Wireless Sensor Networks Calibration using Attention-based Gated Recurrent Units for Air Pollution Monitoring | Shagufta Henna, Asif Yar, and Kazeem Saheed | 
+| 15\:45 - 16:05   | A Methodology and a Toolbox to Explore Dataset related to the Environmental Impact of HTTP Requests | Christophe Cerin, Mathilde Jay, Laurent Lefevre, and Denis Trystram |
+| 16\:05 - 16:30   | Coffee Break               |               |
+| 16\:30 - 16:50   | Detection of methane plumes using Sentinel-2 satellite images and deep neural networks trained on synthetically created label data | Maciel Zortea, Joao Lucas de Sousa Almeida, Levente Klein, and Alberto Costa Nogueira Junior |
+| 16\:50 - 17:10   | Energy-Aware Query Processing: A Case Study on Join Reordering | Ladjel Bellatreche, Fouad Djellali, Wojciech Macyna, and Carlos Ordonez |
+| 17\:10 - 17:30   | Is Active Learning Green? An Empirical Study | Shirin Salehi and Anke Schmeink |
+| 17\:30 - 17:50   | Explainable Long-Term Forecasting of Air Pollution | Abdul Mutakabbir and Samuel A. Ajila |
+| 17\:50 - 18:10   | Counterfactual Analysis: A Case Study on Impact of External Events on Building Energy Consumption | Carolina Minami Oguchi, Dipak Ghosal, Alex Sim, and Kesheng Wu |
+| 18\:10 - 18:20   | Closing Remarks            |               |
+
 ## Outline
 
 Sustainability is a significant challenge, given the impending consequences of global warming. Computing has a crucial role to play in ensuring that we develop sustainable interactions with our environment and tackling the challenges associated with mitigating climate change. Big Data is a key asset in developing a more sustainable environment and can lead to new breakthroughs and better use of the resources we have. However, computing can be seen as part of the solution, as we use computational resources to make the world a more sustainable place, but also part of the problem – with ICT accounting for 1.11Gt of CO2 in 2020 and estimated to more than double by 2030.
