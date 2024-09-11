@@ -1,32 +1,12 @@
 ---
 layout: default
 ---
-## Big Data Analytics for Sustainability (BDA4S) 2023 
+## Big Data Analytics for Sustainability (BDA4S) 2024 
 
 ![Branching](figures/data-equipment.jpg)
 
-### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
-December 15th - 18th, 2023, Sorrento, Italy
-
-## Final Programme
-
-
-| Time             | Title                     | Authors        |
-|------------------|---------------------------|----------------|
-| 14\:00 - 14\:05  | Welcome                   | Chairs         |
-| 14\:05 - 14:25   | Explainable Deep Learning for Smart Grid Stability Detection | Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, and Antonella Santone |
-| 14\:25 - 14:45   | The Forecastability of Underlying Building Electricity Demand from Time Series Data | Mohamad Khalil, A. Stephen McGough, Hussain Kazmi, and Sara Walker | 
-| 14\:45 - 15:05   | Forecasting Resource Demand for Dynamic Datacenter Sizing in Telco Infrastructures | Dimitra Paranou, Angelos Pentelas, Dimitris Katsiros, Konstantinos Maidatsis, George Giannopoulos, Evangelos Angelou, Nikos Anastopoulos, and George Papastefanatos | 
-| 15\:05 - 15:25   | Natural Language Processing to Understand Human Activities Impacted by Hydroelectric Energy Projects | Keshava Pallavi Gone, Yan Chen, and Michael Smit | 
-| 15\:25 - 15:45   | Wireless Sensor Networks Calibration using Attention-based Gated Recurrent Units for Air Pollution Monitoring | Shagufta Henna, Asif Yar, and Kazeem Saheed | 
-| 15\:45 - 16:05   | A Methodology and a Toolbox to Explore Dataset related to the Environmental Impact of HTTP Requests | Christophe Cerin, Mathilde Jay, Laurent Lefevre, and Denis Trystram |
-| 16\:05 - 16:30   | Coffee Break               |               |
-| 16\:30 - 16:50   | Detection of methane plumes using Sentinel-2 satellite images and deep neural networks trained on synthetically created label data | Maciel Zortea, Joao Lucas de Sousa Almeida, Levente Klein, and Alberto Costa Nogueira Junior |
-| 16\:50 - 17:10   | Energy-Aware Query Processing: A Case Study on Join Reordering | Ladjel Bellatreche, Fouad Djellali, Wojciech Macyna, and Carlos Ordonez |
-| 17\:10 - 17:30   | Is Active Learning Green? An Empirical Study | Shirin Salehi and Anke Schmeink |
-| 17\:30 - 17:50   | Explainable Long-Term Forecasting of Air Pollution | Abdul Mutakabbir and Samuel A. Ajila |
-| 17\:50 - 18:10   | Counterfactual Analysis: A Case Study on Impact of External Events on Building Energy Consumption | Carolina Minami Oguchi, Dipak Ghosal, Alex Sim, and Kesheng Wu |
-| 18\:10 - 18:20   | Closing Remarks            |               |
+### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
+December 15th - 18th, 2024, Washington DC, USA          |               |
 
 ## Outline
 
@@ -97,10 +77,10 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| please contact us | Due date for full workshop papers submission |
-| Nov 1, 2023 |  Notification of paper acceptance to authors |
-| Nov 20,2023 | Camera-ready of accepted papers |
-| Dec 15-18 2023 | Workshop (one day of) |
+| Oct 1, 2024 | Due date for full workshop papers submission |
+| Nov 1, 2024 |  Notification of paper acceptance to authors |
+| Nov 20,2024 | Camera-ready of accepted papers |
+| Dec 15-18 2024 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
@@ -134,6 +114,12 @@ Haidian District, Beijing
 China  
 Email: hao.dong@pku.edu.cn
 
+Dr Amir Atapour Abarghouei Assistant Professor
+Department of Computing Science Durham University
+Durham, DH1 3LE
+United Kingdom
+Email: Amir.Atapour-Abarghouei@durham.ac.uk
+
 ### International Technical Committee
 
 To be confirmed
@@ -145,10 +131,3 @@ To be confirmed
 | Amlan Ganguly | Rochester Institute of Technology, Rochester, New Yorlk, USA | 
 | Rong Ge |  Clemson University, Clemson, South Carolina, USA | 
 | Rameshwar Dubey | Montpellier Business School, France |   
-
-
-
-
-
-
-                    
