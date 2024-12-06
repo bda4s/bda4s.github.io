@@ -8,6 +8,19 @@ layout: default
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
 December 15th - 18th, 2024, Online (Washington DC, USA)
 
+## Final Programme - 16th Decemner 2024
+All online - Times are for Washington DC
+
+| Time             | Title                     | Authors        |
+|------------------|---------------------------|----------------|
+| 10\:20 - 10\:30 	| Welcome and introductions	| Stephen McGough, Matthew Forshaw and Amir Atapour-Abarghouei |
+| 10\:30 - 11\:00	 | A LSTM with Dual-stage Attention Method to Predict Amine Emissions for Carbon Dioxide Capture and Storage |	Sai Rajesh Rapelli, Zhiyuan Chen, and Wei Lu |
+| 11\:00 - 11\:30	 | Comparative Evaluation of Causal Discovery and Inference Approaches on Arctic Sea Ice Time Series Data	| Omar Faruque, Xingyan Li, Md Azim Khan, Homayra Alam, and Jianwu Wang |
+| 11\:30 - 12\:00	 | ERATTA: Extreme RAG for enterprise-Table To Answers with Large Language Models | Sohini Roychowdhury, Marko Krema, Anvar Mahammad, Brian Moore, Arijit Mukherjee, and Punit Prakashchandra |
+| 12\:00 - 12\:30	 | Energy Infrastructure Risk Modeling using Quantum and Classical Machine Learning |	Neelanga Thelasingha and Thilanka Munasinghe |
+| 12\:30 - 12\:40	 | Closing Remarks | | 
+| 12\:40 - 14\:00	 | Lunch Break | | 
+
 ## Online this year
 Dear All, due to personal circumstances we are making this workshop Online this year. We hope this doesn't discourage you from submitting your work.
 
